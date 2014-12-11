@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Juice wrapper package",
   version: '0.1.0',
-  name: "juice"
+  name: "sacha:juice"
 });
 
 Npm.depends({
