@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Npm.depends({
-  juice: "0.5.0", 
+  juice: "1.0.0", 
 });
 
 Package.onUse(function (api) {
