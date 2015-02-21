@@ -2,7 +2,7 @@ Package.describe({
   summary: "Juice wrapper package",
   version: '0.1.2',
   name: "sacha:juice",
-  git: "https://github.com/SachaG/meteor-juice"
+  git: "https://github.com/SachaG/meteor-juice.git"
 });
 
 Npm.depends({
@@ -11,7 +11,7 @@ Npm.depends({
 
 Package.onUse(function (api) {
 
-  api.add_files([
+  api.addFiles([
     'lib/juice.js',
   ], ['server']);
   
