@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Juice wrapper package",
+  summary: "Inline CSS into HTML via the NPM 'juice' package",
   version: '0.1.3',
   name: "sacha:juice",
   git: "https://github.com/SachaG/meteor-juice.git"
